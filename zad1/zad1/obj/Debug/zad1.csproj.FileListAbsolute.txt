@@ -1,0 +1,12 @@
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad1\zad1\bin\Debug\zad1.exe.config
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad1\zad1\bin\Debug\zad1.exe
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad1\zad1\bin\Debug\zad1.pdb
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad1\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad1\zad1\obj\Debug\zad1.exe
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad1\zad1\obj\Debug\zad1.pdb
+C:\Users\kresimir\Desktop\zad1\zad1\bin\Debug\zad1.exe.config
+C:\Users\kresimir\Desktop\zad1\zad1\obj\Debug\zad1.exe
+C:\Users\kresimir\Desktop\zad1\zad1\obj\Debug\zad1.pdb
+C:\Users\kresimir\Desktop\zad1\zad1\bin\Debug\zad1.exe
+C:\Users\kresimir\Desktop\zad1\zad1\bin\Debug\zad1.pdb
+C:\Users\kresimir\Desktop\zad1\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache

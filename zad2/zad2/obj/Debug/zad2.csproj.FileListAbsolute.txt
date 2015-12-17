@@ -1,0 +1,18 @@
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad2\zad2\bin\Debug\zad2.exe.config
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad2\zad2\bin\Debug\zad2.exe
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad2\zad2\bin\Debug\zad2.pdb
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad2\zad2\obj\Debug\zad2.csprojResolveAssemblyReference.cache
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad2\zad2\obj\Debug\zad2.exe
+c:\users\dado pršo\documents\visual studio 2015\Projects\zad2\zad2\obj\Debug\zad2.pdb
+C:\Users\kresimir\Desktop\zad2\zad2\bin\Debug\zad2.exe.config
+C:\Users\kresimir\Desktop\zad2\zad2\obj\Debug\zad2.exe
+C:\Users\kresimir\Desktop\zad2\zad2\obj\Debug\zad2.pdb
+C:\Users\kresimir\Desktop\zad2\zad2\bin\Debug\zad2.exe
+C:\Users\kresimir\Desktop\zad2\zad2\bin\Debug\zad2.pdb
+C:\Users\kresimir\Desktop\zad2\zad2\obj\Debug\zad2.csprojResolveAssemblyReference.cache
+C:\Users\kresimir\Desktop\zad21\zad2\bin\Debug\zad2.exe.config
+C:\Users\kresimir\Desktop\zad21\zad2\obj\Debug\zad2.exe
+C:\Users\kresimir\Desktop\zad21\zad2\obj\Debug\zad2.pdb
+C:\Users\kresimir\Desktop\zad21\zad2\bin\Debug\zad2.exe
+C:\Users\kresimir\Desktop\zad21\zad2\bin\Debug\zad2.pdb
+C:\Users\kresimir\Desktop\zad21\zad2\obj\Debug\zad2.csprojResolveAssemblyReference.cache
